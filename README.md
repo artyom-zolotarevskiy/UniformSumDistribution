@@ -140,4 +140,4 @@ Copyright (c) 2022 Artyom Zolotarevskiy.
 **UniformSumDistribution** is free software made available under the MIT License. For
 details see the LICENSE file.
 
-[![License MIT](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/j-faria/Kumaraswamy/blob/master/LICENSE)
+[![License MIT](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/metrazlot/UniformSumDistribution/blob/main/LICENSE)
